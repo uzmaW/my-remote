@@ -1,2 +1,4 @@
 
-ts local clone for hacker rank
+
+Hello from local
+ local clone for hacker rank
